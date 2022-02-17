@@ -1,3 +1,5 @@
+// authors: Khushin Patel, Zaid Iqbal, Aleexis Sahagun
+
 import java.util.Scanner;
 
 public class User {

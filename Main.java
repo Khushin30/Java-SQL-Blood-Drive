@@ -1,3 +1,5 @@
+// authors: Khushin Patel, Zaid Iqbal, Aleexis Sahagun
+
 import java.sql.*;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
